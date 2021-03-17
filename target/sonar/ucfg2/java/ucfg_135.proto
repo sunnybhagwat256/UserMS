@@ -1,0 +1,49 @@
+
+Qcom.infosys.user.dto.WishlistDTO#createEntity()Lcom/infosys/user/entity/Wishlist;_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java0 0("1*›
+1_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java1 1(%Æ´
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java1 1(#&
+%0 com.infosys.user.entity.Wishlist" com.infosys.user.entity.Wishlist¿
+Ω
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java1 1(%
+%1"*com.infosys.user.entity.Wishlist#<init>()V*(
+&
+%0 com.infosys.user.entity.Wishlist¬
+ø
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java1 1(&,
+wishlist com.infosys.user.entity.Wishlist"__id*(
+&
+%0 com.infosys.user.entity.WishlistÛ
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java2 2((
+%2java.lang.Integer"@com.infosys.user.dto.WishlistDTO#getBuyerid()Ljava/lang/Integer;*$"
+ com.infosys.user.dto.WishlistDTO2getBuyerid()üú
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java2 2()
+
+%3void"Acom.infosys.user.entity.Wishlist#setBuyerid(Ljava/lang/Integer;)V*.
+,
+wishlist com.infosys.user.entity.Wishlist*
+
+%2java.lang.Integer2setBuyerid(Ljava/lang/Integer;)ÒÓ
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java3 3(&
+%4java.lang.Integer"?com.infosys.user.dto.WishlistDTO#getProdid()Ljava/lang/Integer;*$"
+ com.infosys.user.dto.WishlistDTO2getProdid()ùö
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java3 3('
+
+%5void"@com.infosys.user.entity.Wishlist#setProdid(Ljava/lang/Integer;)V*.
+,
+wishlist com.infosys.user.entity.Wishlist*
+
+%4java.lang.Integer2setProdid(Ljava/lang/Integer;)"ë
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java4 4(.
+,
+wishlist com.infosys.user.entity.WishlistB$"
+ com.infosys.user.dto.WishlistDTO

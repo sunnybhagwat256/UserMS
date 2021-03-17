@@ -1,0 +1,42 @@
+
+ucom.infosys.user.controller.BuyerController#removeBuyer(Ljava/lang/Integer;)Lorg/springframework/http/ResponseEntity;j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaH H(*"1*å
+1j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaI I(Â
+‚
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaI I(+
+%0%com.infosys.user.service.BuyerService"__id*A*?-
++com.infosys.user.controller.BuyerController"
+buyerServiceµ≤
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaI I(#
+
+%1void"Gcom.infosys.user.service.BuyerService#removeBuyer(Ljava/lang/Integer;)V*-
++
+%0%com.infosys.user.service.BuyerService*
+
+buyeridjava.lang.Integer2 removeBuyer(Ljava/lang/Integer;)®
+•
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaJJ J(W)
+%2#org.springframework.http.HttpStatus"__id*
+""«ƒ
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaJ J(#-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityÂ
+‚
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaJ	 J(X
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*&$
+"Buyer Details deleted successfully*+
+)
+%2#org.springframework.http.HttpStatus"ù
+j
+`C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/BuyerController.javaJ J(Y/
+-
+%3'org.springframework.http.ResponseEntity:
+buyeridjava.lang.IntegerB/-
++com.infosys.user.controller.BuyerController

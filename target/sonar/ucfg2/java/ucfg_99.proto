@@ -1,0 +1,17 @@
+
+?com.infosys.user.entity.Seller#getIsactive()Ljava/lang/Integer;]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/entity/Seller.javaC C("1*”
+1]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/entity/Seller.javaD	 D(³
+°
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/entity/Seller.javaD	 D(
+%0java.lang.Integer"__id*0*. 
+com.infosys.user.entity.Seller"
+
+isactive"z
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/entity/Seller.javaD D(
+
+%0java.lang.IntegerB" 
+com.infosys.user.entity.Seller

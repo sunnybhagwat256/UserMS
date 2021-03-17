@@ -1,0 +1,42 @@
+
+‰com.infosys.user.controller.WishlistController#AddToWishlist(Lcom/infosys/user/dto/WishlistDTO;)Lorg/springframework/http/ResponseEntity;m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java (,"1*ç
+1m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java   (ñ
+î
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java   (.
+%0(com.infosys.user.service.WishlistService"__id*G*E0
+.com.infosys.user.controller.WishlistController"
+wishlistServiceóð
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java   (,
+
+%1void"[com.infosys.user.service.WishlistService#AddToWishlist(Lcom/infosys/user/dto/WishlistDTO;)V*0
+.
+%0(com.infosys.user.service.WishlistService*1
+/
+wishlistDTO com.infosys.user.dto.WishlistDTO21AddToWishlist(Lcom/infosys/user/dto/WishlistDTO;)«
+¨
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java!L !(Y)
+%2#org.springframework.http.HttpStatus"__id*
+""ÊÇ
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java! !(#-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityê
+ç
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java!	 !(Z
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*(&
+$items added to wishlist successfully*+
+)
+%2#org.springframework.http.HttpStatus" 
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java! !([/
+-
+%3'org.springframework.http.ResponseEntity:/
+wishlistDTO com.infosys.user.dto.WishlistDTOB20
+.com.infosys.user.controller.WishlistController

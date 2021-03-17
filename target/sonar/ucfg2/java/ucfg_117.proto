@@ -1,0 +1,98 @@
+
+Mcom.infosys.user.dto.SellerDTO#createEntity()Lcom/infosys/user/entity/Seller;]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaP P("1*ç
+1]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaQ Q(®•
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaQ Q($
+%0com.infosys.user.entity.Seller"com.infosys.user.entity.Seller∫
+∑
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaQ Q(
+%1"(com.infosys.user.entity.Seller#<init>()V*&
+$
+%0com.infosys.user.entity.Seller∫
+∑
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaQ Q( (
+sellercom.infosys.user.entity.Seller"__id*&
+$
+%0com.infosys.user.entity.SellerÔÏ
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaR R((
+%2java.lang.Integer"?com.infosys.user.dto.SellerDTO#getSellerid()Ljava/lang/Integer;*" 
+com.infosys.user.dto.SellerDTO2getSellerid()ôñ
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaR R()
+
+%3void"@com.infosys.user.entity.Seller#setSellerid(Ljava/lang/Integer;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%2java.lang.Integer2 setSellerid(Ljava/lang/Integer;)Â‚
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaS S( 
+%4java.lang.String":com.infosys.user.dto.SellerDTO#getName()Ljava/lang/String;*" 
+com.infosys.user.dto.SellerDTO2	getName()éã
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaS S(!
+
+%5void";com.infosys.user.entity.Seller#setName(Ljava/lang/String;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%4java.lang.String2setName(Ljava/lang/String;)Á‰
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaT T("
+%6java.lang.String";com.infosys.user.dto.SellerDTO#getEmail()Ljava/lang/String;*" 
+com.infosys.user.dto.SellerDTO2
+getEmail()êç
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaT T(#
+
+%7void"<com.infosys.user.entity.Seller#setEmail(Ljava/lang/String;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%6java.lang.String2setEmail(Ljava/lang/String;)µ
+≤
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaU U()
+%8java.lang.String"__id*3*1 
+com.infosys.user.dto.SellerDTO"
+phonenumberúô
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaU U(*
+
+%9void"Bcom.infosys.user.entity.Seller#setPhonenumber(Ljava/lang/String;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%8java.lang.String2"setPhonenumber(Ljava/lang/String;)ÓÎ
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaV V((
+%10java.lang.String">com.infosys.user.dto.SellerDTO#getPassword()Ljava/lang/String;*" 
+com.infosys.user.dto.SellerDTO2getPassword()òï
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaV V()
+%11void"?com.infosys.user.entity.Seller#setPassword(Ljava/lang/String;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%10java.lang.String2setPassword(Ljava/lang/String;)Ì
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaW W((
+%12java.lang.Integer"?com.infosys.user.dto.SellerDTO#getIsactive()Ljava/lang/Integer;*" 
+com.infosys.user.dto.SellerDTO2getIsactive()õò
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaW W()
+%13void"@com.infosys.user.entity.Seller#setIsactive(Ljava/lang/Integer;)V**
+(
+sellercom.infosys.user.entity.Seller*
+
+%12java.lang.Integer2 setIsactive(Ljava/lang/Integer;)"ã
+]
+SC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/SellerDTO.javaX X(*
+(
+sellercom.infosys.user.entity.SellerB" 
+com.infosys.user.dto.SellerDTO

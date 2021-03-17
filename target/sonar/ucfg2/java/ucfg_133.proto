@@ -1,0 +1,52 @@
+
+=com.infosys.user.dto.WishlistDTO#toString()Ljava/lang/String;_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java$ $("1*«
+
+1_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%	 %( ¶
+³
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%# %(*
+%0java.lang.Integer"__id*1*/"
+ com.infosys.user.dto.WishlistDTO"	
+buyerid¼
+¹
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%	 %(*
+%1java.lang.String"__concat*
+WishlistDTO [buyerid=*
+
+%0java.lang.Integer¯
+¬
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%	 %(8
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, prodid=µ
+²
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%; %(A
+%3java.lang.Integer"__id*0*."
+ com.infosys.user.dto.WishlistDTO"
+prodid»
+¸
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%	 %(A
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Integer§
+¤
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java%	 %(G
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+]"{
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java% %(H
+
+%5java.lang.StringB$"
+ com.infosys.user.dto.WishlistDTO

@@ -1,0 +1,42 @@
+
+“com.infosys.user.controller.WishlistController#removeWishlistItems(Lcom/infosys/user/entity/CompositeKey;)Lorg/springframework/http/ResponseEntity;m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java, ,(2"1*ÿ
+1m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java- -(ñ
+î
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java- -(.
+%0(com.infosys.user.service.WishlistService"__id*G*E0
+.com.infosys.user.controller.WishlistController"
+wishlistServiceŒ‰
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java- -(3
+
+%1void"ecom.infosys.user.service.WishlistService#removeWishlistItems(Lcom/infosys/user/entity/CompositeKey;)V*0
+.
+%0(com.infosys.user.service.WishlistService*6
+4
+compositeKey$com.infosys.user.entity.CompositeKey2;removeWishlistItems(Lcom/infosys/user/entity/CompositeKey;)«
+¨
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java.K .(X)
+%2#org.springframework.http.HttpStatus"__id*
+""ÊÇ
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java. .(#-
+%3'org.springframework.http.ResponseEntity"'org.springframework.http.ResponseEntityé
+æ
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java.	 .(Y
+%4"horg.springframework.http.ResponseEntity#<init>(Ljava/lang/Object;Lorg/springframework/http/HttpStatus;)V*/
+-
+%3'org.springframework.http.ResponseEntity*'%
+#Wishlist items deleted successfully*+
+)
+%2#org.springframework.http.HttpStatus" 
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java. .(Z/
+-
+%3'org.springframework.http.ResponseEntity:4
+compositeKey$com.infosys.user.entity.CompositeKeyB20
+.com.infosys.user.controller.WishlistController

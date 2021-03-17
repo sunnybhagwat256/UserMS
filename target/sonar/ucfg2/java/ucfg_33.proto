@@ -1,0 +1,31 @@
+
+]com.infosys.user.validator.UserValidator#validateEmail(Ljava/lang/String;)Ljava/lang/Boolean;g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java/ /(%"3*ß
+2g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java2 2("q
+g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java2 2(
+""*­
+3g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java0 0(2³
+°
+g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java0 0(3
+regxjava.lang.String"__id*%#
+!^[a-zA-Z0-9]+@[a-zA-Z0-9]+\\.com$€ý
+g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java1 1(
+%0boolean"-java.lang.String#matches(Ljava/lang/String;)Z*
+
+emailjava.lang.String*
+
+regxjava.lang.String2matches(Ljava/lang/String;)*
+2
+1*ß
+1g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java5 5("q
+g
+]C:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/validator/UserValidator.java5 5(
+"":
+emailjava.lang.StringB,"*
+(com.infosys.user.validator.UserValidator

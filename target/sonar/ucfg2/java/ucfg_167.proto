@@ -1,0 +1,21 @@
+
+Pcom.infosys.user.controller.WishlistController#getWishlistData()Ljava/util/List;m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java& &()"1*„
+1m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java'	 '(ñ
+î
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java'	 '(.
+%0(com.infosys.user.service.WishlistService"__id*G*E0
+.com.infosys.user.controller.WishlistController"
+wishlistService‘Ž
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java'	 '(&
+%1java.util.List"Fcom.infosys.user.service.WishlistService#getWishlist()Ljava/util/List;*0
+.
+%0(com.infosys.user.service.WishlistService2getWishlist()"‡
+m
+cC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/controller/WishlistController.java' '('
+
+%1java.util.ListB20
+.com.infosys.user.controller.WishlistController

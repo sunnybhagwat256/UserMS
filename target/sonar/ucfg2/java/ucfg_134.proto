@@ -1,0 +1,52 @@
+
+ncom.infosys.user.dto.WishlistDTO#valueOf(Lcom/infosys/user/entity/Wishlist;)Lcom/infosys/user/dto/WishlistDTO;_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java) )(#"1*˝
+1_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java* *(.Æ´
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java*! *(,&
+%0 com.infosys.user.dto.WishlistDTO" com.infosys.user.dto.WishlistDTO¿
+Ω
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java* *(.
+%1"*com.infosys.user.dto.WishlistDTO#<init>()V*(
+&
+%0 com.infosys.user.dto.WishlistDTO≈
+¬
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java* *(//
+wishlistDTO com.infosys.user.dto.WishlistDTO"__id*(
+&
+%0 com.infosys.user.dto.WishlistDTO˝˙
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java+ +(/
+%2java.lang.Integer"@com.infosys.user.entity.Wishlist#getBuyerid()Ljava/lang/Integer;*.
+,
+wishlist com.infosys.user.entity.Wishlist2getBuyerid()¢ü
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java+ +(0
+
+%3void"Acom.infosys.user.dto.WishlistDTO#setBuyerid(Ljava/lang/Integer;)V*1
+/
+wishlistDTO com.infosys.user.dto.WishlistDTO*
+
+%2java.lang.Integer2setBuyerid(Ljava/lang/Integer;)˚¯
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java, ,(-
+%4java.lang.Integer"?com.infosys.user.entity.Wishlist#getProdid()Ljava/lang/Integer;*.
+,
+wishlist com.infosys.user.entity.Wishlist2getProdid()†ù
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java, ,(.
+
+%5void"@com.infosys.user.dto.WishlistDTO#setProdid(Ljava/lang/Integer;)V*1
+/
+wishlistDTO com.infosys.user.dto.WishlistDTO*
+
+%4java.lang.Integer2setProdid(Ljava/lang/Integer;)"î
+_
+UC:/Users/sunny/Desktop/FA4/UserMS/src/main/java/com/infosys/user/dto/WishlistDTO.java- -(1
+/
+wishlistDTO com.infosys.user.dto.WishlistDTO:,
+wishlist com.infosys.user.entity.WishlistB$""
+ com.infosys.user.dto.WishlistDTO
